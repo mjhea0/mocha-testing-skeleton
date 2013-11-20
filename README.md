@@ -23,7 +23,7 @@ Based upon [this](https://github.com/evangoer/mocha-unit-testing) repo. Altered 
 1. Install Node.js and npm from [NodeJS.org](http://nodejs.org/). 
 2. Use git to clone this repo on your local machine:
 ```sh
-$ git clone ...
+$ git clone https://github.com/mjhea0/mocha-testing-skeleton.git
 ```
 
 3. Enter the repo directory and type `make install`. This installs the dependencies listed above.

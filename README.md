@@ -16,7 +16,7 @@ Included files:
 - `test/index.html` - an HTML page that sets up the test infrastructure and enables you to run the tests.
 - `test/tests.js` - the mocha test suite. The functions "describe()" and "it()" and "afterEach()" are part of mocha; the "expect()" functions are assertion functions that come from expect.js.
 
-Based upon [this](https://github.com/evangoer/mocha-unit-testing) repo.
+Based upon [this](https://github.com/evangoer/mocha-unit-testing) repo. Altered to meet my needs.
 
 ## Installing
 
@@ -31,8 +31,7 @@ $ git clone ...
 ## Running the tests manually from a browser
 
 1. Open the `test/index.html` file in a browser. This displays a test page that shows two tests passing.
-
-To run the test suite again, refresh the page.
+2. Simply refresh the page to run the test suite again.
 
 ## Running the tests headlessly using PhantomJS
 

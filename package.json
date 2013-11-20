@@ -1,0 +1,26 @@
+{
+  "name": "mocha-testing-skeleton",
+  "version": "1.0.0",
+  "description": "Simple testing skeleton for running mocha + expect.js unit tests in the browser.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha-phantomjs": "~3.1.6",
+    "phantomjs": "~1.9.2-3",
+    "expect.js": "~0.2.0"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "keywords": [
+    "test",
+    "skeleton",
+    "template",
+    "mocha",
+    "phantomjs"
+  ],
+  "author": "Michael Herman",
+  "license": "MIT"
+}
